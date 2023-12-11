@@ -1,0 +1,19 @@
+body{
+    scroll-behavior: smooth;
+}
+.background{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(78, 78, 219) 11%, rgba(0,212,255,1) 100%);
+}
+#title img{
+    border-radius: 500px;
+    border: 3px darkblue dotted;
+}
+#title{
+    color: white;
+}
+.list-group{
+    border: 2px black solid;
+}
+.background-2{
+    background-color: #13dadb;
+}
